@@ -1,0 +1,1 @@
+The reappearance of a trait or characteristic in an organism that was present in its ancestors but absent in more recent generations, often due to genetic expression. A tendency to revert to something ancient or ancestral.
