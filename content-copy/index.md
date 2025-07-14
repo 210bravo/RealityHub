@@ -1,2 +1,1 @@
-# RealityHub
-Welcome to my digital garden.
+# Welcome to RealityHub 
