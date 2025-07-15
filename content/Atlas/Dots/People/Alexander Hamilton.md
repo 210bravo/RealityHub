@@ -1,5 +1,0 @@
----
-aliases:
-  - Hamilton
-Class: Person
----

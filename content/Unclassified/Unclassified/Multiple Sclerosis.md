@@ -1,5 +1,0 @@
----
-aliases:
-  - MS
-tags:
----

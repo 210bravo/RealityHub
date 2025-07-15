@@ -1,5 +1,0 @@
----
-aliases:
-  - Jefferson
-Class: Person
----

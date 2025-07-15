@@ -1,5 +1,0 @@
----
-aliases:
-  - DDW
-tags:
----

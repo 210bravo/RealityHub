@@ -1,5 +1,0 @@
----
-aliases:
-  - Trump
-Class: Person
----
